@@ -2,7 +2,7 @@
 Text to speech with WPF interface and python WhisperAI code
 
 # To start
-- install torch, whisper (created a long time ago, maybe something else, can't remember)
+- install all stuff, reqired for Whisper AI https://github.com/openai/whisper
 - put download_model.py and whisper_py2.py into application folder (WPF+Py.exe)
 
 to close program use right click
